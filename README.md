@@ -11,4 +11,5 @@ function generateMetaMaskName() {
 }
 
 // Generate and display the name
-console.log(generateMetaMaskName());
+console.log(generateMetaMaskName()); 
+857
